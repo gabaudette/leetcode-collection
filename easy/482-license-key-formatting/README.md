@@ -1,4 +1,4 @@
-# License key formatting - Easy
+# 482. License key formatting - Easy
 
 https://leetcode.com/problems/license-key-formatting
 
