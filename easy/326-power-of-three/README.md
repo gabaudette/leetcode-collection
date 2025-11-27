@@ -1,4 +1,4 @@
-# 326. POwer of Three - Easy
+# 326. Power of Three - Easy
 
 https://leetcode.com/problems/power-of-three
 
