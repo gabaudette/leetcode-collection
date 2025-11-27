@@ -6,6 +6,7 @@ function isPowerOfThree(n: number): boolean {
   if (n === 1) {
     return true;
   }
+  
   const max = 1e-10;
   const a = Math.log(n) / Math.log(3);
 
