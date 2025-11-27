@@ -1,4 +1,4 @@
-#860. Lemonade Change - Easy (One of my favorite problems)
+# 860. Lemonade Change - Easy (One of my favorite problems)
 
 https://leetcode.com/problems/lemonade-change
 
