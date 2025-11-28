@@ -23,8 +23,8 @@ function letterCombinations(digits: string): string[] {
 
     const characters = map.get(digit)!.split("");
     const combinations: string[] = [];
-    for (let letter of letterCombinations) {
-      for (let char of characters) {
+    for (const letter of letterCombinations) {
+      for (const char of characters) {
         combinations.push(`${letter}${char}`);
       }
     }
